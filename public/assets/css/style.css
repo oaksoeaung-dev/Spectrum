@@ -928,6 +928,10 @@ video {
   width: 3rem;
 }
 
+.w-10{
+  width: 2.5rem;
+}
+
 .max-w-96{
   max-width: 24rem;
 }
@@ -1125,6 +1129,10 @@ video {
 
 .gap-8{
   gap: 2rem;
+}
+
+.gap-1{
+  gap: 0.25rem;
 }
 
 .space-x-2 > :not([hidden]) ~ :not([hidden]){
@@ -1485,6 +1493,11 @@ video {
 .text-xs{
   font-size: 0.75rem;
   line-height: 1rem;
+}
+
+.text-base{
+  font-size: 1rem;
+  line-height: 1.5rem;
 }
 
 .font-bold{
